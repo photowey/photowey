@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @photowey
 - 👀 I’m interested in `Java`, `Go` and `Rust`...
-- 🌱 I’m currently learning `Spring Cloud Alibaba`
+- 🌱 I’m currently learning `Spring Cloud Alibaba`, `tokio`, `actix-web` etc.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me <photowey@gmail.com>
 
